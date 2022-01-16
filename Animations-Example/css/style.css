@@ -1,0 +1,126 @@
+body{
+    /*background-image: url(https://images.everyeye.it/img-notizie/jigokuraku-hell-s-paradise-noto-blogger-conferma-arrivare-anime-v3-494366-1280x960.jpg);*/
+    background-color: #C4091C;
+    /* text-align: center; */
+    font-family: 'Signika';
+}
+h1{
+    /* font-family: 'Signika'; */
+    text-align: center;
+}
+img{
+    width: 200px;
+    height: 200px;
+    
+    /*------------*/
+    /* position: absolute;
+    right: 0px; */
+    
+    /* padding: 10px; */
+    padding: 3px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+ul li{
+    list-style:none;
+    display: inline-block;
+}
+
+#f1{
+    /*animation-name: foto1;*/
+    transition: transform 1s;
+    transition-timing-function: ease;
+    animation-iteration-count: infinite;
+    animation-direction:alternate;
+}
+#f1:hover{
+    transform: scale(2);
+}
+
+#f2{
+    transition: transform 2s;
+    transition-timing-function: ease;
+    object-position: top;
+}
+#f2:hover{
+    transform: scale(2);
+}
+
+#f3{
+    transition: transform 2s;
+    transition-timing-function: ease;
+}
+#f3:hover{
+    transform: scale(2);
+}
+
+#f4{
+    transition: transform 2s;
+    transition-timing-function: ease;
+}
+#f4:hover{
+    transform: scale(2);
+}
+
+#f5{
+    transition: transform 2s;
+    transition-timing-function: ease;
+}
+#f5:hover{
+    transform: scale(2);
+}
+
+#f6{
+    transition: transform 2s;
+    transition-timing-function: ease;
+}
+#f6:hover{
+    transform: scale(2);
+}
+
+#f7{
+    transition: transform 2s;
+    transition-timing-function: ease;
+}
+#f7:hover{
+    transform: scale(2);
+}
+#f8{
+    transition: transform 2s;
+    transition-timing-function: ease;
+}
+#f8:hover{
+    transform: scale(2);
+}
+#f9{
+    transition: transform 2s;
+    transition-timing-function: ease;
+}
+#f9:hover{
+    transform: scale(2);
+}
+#f10{
+    transition: transform 2s;
+    transition-timing-function: ease;
+}
+#f10:hover{
+    transform: scale(2);
+}
+#f11{
+    transition: transform 2s;
+    transition-timing-function: ease;
+}
+#f11:hover{
+    transform: scale(2);
+}
+#f12{
+    transition: transform 2s;
+    transition-timing-function: ease;
+}
+#f12:hover{
+    transform: scale(2);
+}
